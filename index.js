@@ -1,3 +1,3 @@
-function aplus {
+function aplusb() {
   a + b;
 }
