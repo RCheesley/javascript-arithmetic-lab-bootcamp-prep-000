@@ -19,5 +19,5 @@ function dec(n) {
   return n -= 1;
 }
 function makeInt(n) {
-  parseInt('a',10);
+  parseInt('n',10);
 }
